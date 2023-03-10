@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/DevIA3kl/other/master/more/1700_1244.gif)
+![MasterHead](https://raw.githubusercontent.com/DevIA3kl/other/master/more/64_64.gif)
 
 ### Hi there 👋
 
