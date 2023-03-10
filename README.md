@@ -1,4 +1,8 @@
-![MasterHead](https://raw.githubusercontent.com/DevIA3kl/other/master/more/256_128.gif)
+
+<p align="center">
+  <img src=https://raw.githubusercontent.com/DevIA3kl/other/master/more/256_128.gif>
+</p>
+
 
 ### Hi there 👋
 
